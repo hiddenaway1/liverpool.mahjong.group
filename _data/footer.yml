@@ -1,0 +1,10 @@
+- links:
+  - name: Discord
+    link: https://www.discord.com/
+    social_icon: Discord
+    new_window: true
+- links:
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false

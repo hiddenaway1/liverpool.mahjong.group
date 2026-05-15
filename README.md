@@ -1,2 +1,3 @@
-# liverpool.mahjong.group
-GitHub Pages repo for Liverpool Mahjong Group
+# Liverpool Riichi Mahjong website
+
+This is the repo for the Liverpool Riichi Mahjong website, hosted via Github Pages

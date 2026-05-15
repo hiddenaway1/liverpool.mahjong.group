@@ -1,0 +1,13 @@
+---
+title: Hall of Yakuman
+---
+
+<ul class="yakuman">
+	{% for entry in site.yakuman %}
+		<hr>
+		<li>
+			<div class="name"><p>{{ entry.name }} - {{ entry.yakuman }} - {{ entry.date_achieved }}</p></div>
+			<div><img style="width: auto;" src="{% include relative-src.html src=entry.image_path %}" alt="{{ entry.yakuman }}"/></div>
+		</li>
+	{% endfor %}
+</ul>
