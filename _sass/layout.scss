@@ -1,3 +1,7 @@
+html { 
+	scroll-behavior: smooth; 
+}
+
 .container, .text-container {
 	margin: 0 auto;
 	position: relative;
@@ -61,18 +65,6 @@
 .decription-footer-image {
 	width: 50%;
 	align-self: center;
-}
-
-.two-columns {
-	display: flex;
-	flex-direction: row;
-	margin: auto;
-	justify-content: center;
-}
-
-.sub-column {
-	padding: 30px;
-	margin: 30px;
 }
 
 header {
