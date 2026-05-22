@@ -80,6 +80,16 @@
 	}
 }
 
+@media (max-aspect-ratio: 1/1) { 
+  .hero {
+    min-height: 15rem;
+	max-height: 35rem;
+	background-image: url($baseurl + "/images/MahjongHeader2_Mobile.jpg");
+  }
+  #header-container {
+	margin-top: 30%;
+  }
+}
 
 @media #{$desktop} {
 	.flex {
