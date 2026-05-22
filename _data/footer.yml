@@ -1,8 +1,8 @@
-- links:
-  - name: Discord
-    link: https://discord.gg/eBqJSesTDr
-    social_icon: Discord
-    new_window: true
+# - links:
+#   - name: Discord
+#     link: https://discord.gg/eBqJSesTDr
+#     social_icon: Discord
+#     new_window: true
 - links:
   - name: RSS
     link: /feed.xml
