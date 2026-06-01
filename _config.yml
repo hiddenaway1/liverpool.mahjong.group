@@ -2,22 +2,22 @@
 # Site
 
 title: Liverpool Riichi Mahjong Group
-url: "liverpool.mahjong.group/"
-baseurl: "https://hiddenaway1.github.io/"
+url: "/"
+baseurl: "https://liverpool.riichi.page/"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Public website for the Liverpool Riichi Mahjong group
+description: The best (and only) Riichi Mahjong group in Liverpool
 author:
   name: Liverpool Riichi Mahjong
-  email: me@me.me
+  email: mahjong.willow219@passmail.net
 social:
   name: Liverpool Riichi Mahjong
   links:
-    - PUT WEBSITE LINK HERE
+    - https://liverpool.riichi.page/
 
 # -----
 # Build
