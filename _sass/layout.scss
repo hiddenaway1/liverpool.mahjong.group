@@ -48,6 +48,13 @@ html {
 	align-self: center;
 }
 
+@media (max-aspect-ratio: 1/1) { 
+	#calendar {
+		width: 120%;
+		overflow: clip;
+	}
+}
+
 .subheading {
 	font-size: 48pt;
 	text-align: center;
